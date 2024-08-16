@@ -1,0 +1,190 @@
+C:\Users\amc trading sharjah\Documents\GAD\finalproject\finalproject\bin\Debug\finalproject.exe.config
+C:\Users\amc trading sharjah\Documents\GAD\finalproject\finalproject\bin\Debug\finalproject.exe
+C:\Users\amc trading sharjah\Documents\GAD\finalproject\finalproject\bin\Debug\finalproject.pdb
+C:\Users\amc trading sharjah\Documents\GAD\finalproject\finalproject\obj\Debug\finalproject.csproj.AssemblyReference.cache
+C:\Users\amc trading sharjah\Documents\GAD\finalproject\finalproject\obj\Debug\finalproject.Properties.Resources.resources
+C:\Users\amc trading sharjah\Documents\GAD\finalproject\finalproject\obj\Debug\finalproject.csproj.GenerateResource.cache
+C:\Users\amc trading sharjah\Documents\GAD\finalproject\finalproject\obj\Debug\finalproject.csproj.CoreCompileInputs.cache
+C:\Users\amc trading sharjah\Documents\GAD\finalproject\finalproject\obj\Debug\finalproject.exe
+C:\Users\amc trading sharjah\Documents\GAD\finalproject\finalproject\obj\Debug\finalproject.pdb
+C:\Users\amc trading sharjah\Documents\GAD\finalproject\finalproject\obj\Debug\finalproject.loading.resources
+C:\Users\amc trading sharjah\Documents\GAD\finalproject\finalproject\obj\Debug\finalproject.selectionpg.resources
+C:\Users\amc trading sharjah\Documents\GAD\finalproject\finalproject\obj\Debug\finalproject.admin.resources
+C:\Users\amc trading sharjah\Documents\GAD\finalproject\finalproject\obj\Debug\finalproject.coLogin.resources
+C:\Users\amc trading sharjah\Documents\GAD\finalproject\finalproject\obj\Debug\finalproject.adminLogin.resources
+C:\Users\amc trading sharjah\Documents\GAD\finalproject\finalproject\obj\Debug\finalproject.adminSURecords.resources
+C:\Users\amc trading sharjah\Documents\GAD\finalproject\finalproject\obj\Debug\finalproject.exLogin.resources
+C:\Users\amc trading sharjah\Documents\GAD\finalproject\finalproject\obj\Debug\finalproject.teacherLogin.resources
+C:\Users\amc trading sharjah\Documents\GAD\finalproject\finalproject\obj\Debug\finalproject.adminViewAcc.resources
+C:\Users\amc trading sharjah\Documents\GAD\finalproject\finalproject\obj\Debug\finalproject.adminSURAddUser.resources
+C:\Users\amc trading sharjah\Documents\GAD\finalproject\finalproject\obj\Debug\finalproject.adminSURDelUser.resources
+C:\Users\amc trading sharjah\Documents\GAD\finalproject\finalproject\obj\Debug\finalproject.adminSURUpdateUser.resources
+C:\Users\amc trading sharjah\Documents\GAD\finalproject\finalproject\obj\Debug\finalproject.adminViewAddAcc.resources
+C:\Users\amc trading sharjah\Documents\GAD\finalproject\finalproject\obj\Debug\finalproject.adminViewDelAcc.resources
+C:\Users\amc trading sharjah\Documents\GAD\finalproject\finalproject\obj\Debug\finalproject.adminSchedule.resources
+C:\Users\amc trading sharjah\Documents\GAD\finalproject\finalproject\obj\Debug\finalproject.adminAddEmpSchedule.resources
+C:\Users\amc trading sharjah\Documents\GAD\finalproject\finalproject\obj\Debug\finalproject.adminUpdateEmpSchedule.resources
+C:\Users\amc trading sharjah\Documents\GAD\finalproject\finalproject\obj\Debug\finalproject.adminESchedule.resources
+C:\Users\amc trading sharjah\Documents\GAD\finalproject\finalproject\obj\Debug\finalproject.adminAddStSchedule.resources
+C:\Users\amc trading sharjah\Documents\GAD\finalproject\finalproject\obj\Debug\finalproject.adminClsSchedule.resources
+C:\Users\amc trading sharjah\Documents\GAD\finalproject\finalproject\obj\Debug\finalproject.adminUpdtStSchedule.resources
+C:\Users\amc trading sharjah\Documents\GAD\finalproject\finalproject\obj\Debug\finalproject.adminAddSub.resources
+C:\Users\amc trading sharjah\Documents\GAD\finalproject\finalproject\obj\Debug\finalproject.adminDelSub.resources
+C:\Users\amc trading sharjah\Documents\GAD\finalproject\finalproject\obj\Debug\finalproject.adminSubject.resources
+C:\Users\amc trading sharjah\Documents\GAD\finalproject\finalproject\obj\Debug\finalproject.adminCls.resources
+C:\Users\amc trading sharjah\Documents\GAD\finalproject\finalproject\obj\Debug\finalproject.adminResults.resources
+C:\Users\amc trading sharjah\Documents\GAD\finalproject\finalproject\obj\Debug\finalproject.adminReports.resources
+C:\Users\amc trading sharjah\Documents\GAD\finalproject\finalproject\obj\Debug\finalproject.adminEvents.resources
+C:\Users\amc trading sharjah\Documents\GAD\finalproject\finalproject\obj\Debug\finalproject.coordinator.resources
+C:\Users\amc trading sharjah\Documents\GAD\finalproject\finalproject\obj\Debug\finalproject.coClassFee.resources
+C:\Users\amc trading sharjah\Documents\GAD\finalproject\finalproject\obj\Debug\finalproject.coTeacherSchedule.resources
+C:\Users\amc trading sharjah\Documents\GAD\finalproject\finalproject\obj\Debug\finalproject.coStAttendance.resources
+C:\Users\amc trading sharjah\Documents\GAD\finalproject\finalproject\obj\Debug\finalproject.paymentClerk.resources
+C:\Users\amc trading sharjah\Documents\GAD\finalproject\finalproject\obj\Debug\finalproject.pPaymentStatus.resources
+C:\Users\amc trading sharjah\Documents\GAD\finalproject\finalproject\obj\Debug\finalproject.payLogin.resources
+C:\Users\amc trading sharjah\Documents\GAD\finalproject\finalproject\obj\Debug\finalproject.pPayConf.resources
+C:\Users\amc trading sharjah\Documents\GAD\finalproject\finalproject\obj\Debug\finalproject.pAddPayDetails.resources
+C:\Users\amc trading sharjah\Documents\GAD\finalproject\finalproject\obj\Debug\finalproject.pEmpSalary.resources
+C:\Users\amc trading sharjah\Documents\GAD\finalproject\finalproject\obj\Debug\finalproject.examinationOfficer.resources
+C:\Users\amc trading sharjah\Documents\GAD\finalproject\finalproject\obj\Debug\finalproject.eOffence.resources
+C:\Users\amc trading sharjah\Documents\GAD\finalproject\finalproject\obj\Debug\finalproject.eResults.resources
+C:\Users\amc trading sharjah\Documents\GAD\finalproject\finalproject\obj\Debug\finalproject.student.resources
+C:\Users\amc trading sharjah\Documents\GAD\finalproject\finalproject\obj\Debug\finalproject.studentClsSchedule.resources
+C:\Users\amc trading sharjah\Documents\GAD\finalproject\finalproject\obj\Debug\finalproject.sSubmitAss.resources
+C:\Users\amc trading sharjah\Documents\GAD\finalproject\finalproject\obj\Debug\finalproject.stLogin.resources
+C:\Users\amc trading sharjah\Documents\GAD\finalproject\finalproject\obj\Debug\finalpro.0608D504.Up2Date
+C:\Users\amc trading sharjah\Documents\GAD\finalproject\finalproject\obj\Debug\finalproject.stOnlineExams.resources
+C:\Users\amc trading sharjah\Documents\GAD\finalproject\finalproject\obj\Debug\finalproject.stQue.resources
+C:\Users\amc trading sharjah\Documents\GAD\finalproject\finalproject\obj\Debug\finalproject.stEvaluation.resources
+C:\Users\amc trading sharjah\Documents\GAD\finalproject\finalproject\obj\Debug\finalproject.teacher.resources
+C:\Users\amc trading sharjah\Documents\GAD\finalproject\finalproject\obj\Debug\finalproject.stTeacherComment.resources
+C:\Users\amc trading sharjah\Documents\GAD\finalproject\finalproject\obj\Debug\finalproject.tEnterResults.resources
+C:\Users\amc trading sharjah\Documents\GAD\finalproject\finalproject\obj\Debug\finalproject.teaComments.resources
+C:\Users\amc trading sharjah\Documents\GAD\finalproject\finalproject\obj\Debug\finalproject.tScheduleExam.resources
+C:\Users\amc trading sharjah\Documents\GAD\finalproject\finalproject\obj\Debug\finalproject.tReports.resources
+C:\Users\amc trading sharjah\Documents\GAD\finalproject\finalproject\obj\Debug\finalproject.tLearningMaterials.resources
+C:\Users\amc trading sharjah\Documents\GAD\finalproject\finalproject\bin\Debug\stdole.dll
+C:\Users\amc trading sharjah\Documents\GAD\finalproject\finalproject\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\amc trading sharjah\Documents\GAD\finalproject\finalproject\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\amc trading sharjah\Documents\GAD\finalproject\finalproject\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\amc trading sharjah\Documents\GAD\finalproject\finalproject\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\amc trading sharjah\Documents\GAD\finalproject\finalproject\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\amc trading sharjah\Documents\GAD\finalproject\finalproject\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\amc trading sharjah\Documents\GAD\finalproject\finalproject\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\amc trading sharjah\Documents\GAD\finalproject\finalproject\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\amc trading sharjah\Documents\GAD\finalproject\finalproject\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\amc trading sharjah\Documents\GAD\finalproject\finalproject\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\amc trading sharjah\Documents\GAD\finalproject\finalproject\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\amc trading sharjah\Documents\GAD\finalproject\finalproject\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\amc trading sharjah\Documents\GAD\finalproject\finalproject\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\amc trading sharjah\Documents\GAD\finalproject\finalproject\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\amc trading sharjah\Documents\GAD\finalproject\finalproject\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\amc trading sharjah\Documents\GAD\finalproject\finalproject\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\amc trading sharjah\Documents\GAD\finalproject\finalproject\obj\Debug\finalproject.crystalform1.resources
+C:\Users\amc trading sharjah\Documents\GAD\finalproject\finalproject\obj\Debug\finalproject.stReportForm.resources
+C:\Users\amc trading sharjah\Documents\GAD\finalproject\finalproject\obj\Debug\finalproject.salaryform.resources
+C:\Users\amc trading sharjah\Documents\GAD\finalproject\finalproject\obj\Debug\finalproject.SubjectReport.resources
+C:\Users\amc trading sharjah\Documents\GAD\finalproject\finalproject\obj\Debug\finalproject.teaReqLeaves.resources
+C:\Users\amc trading sharjah\Documents\GAD\finalproject\finalproject\obj\Debug\finalproject.tConductOnLessons.resources
+C:\Users\amc trading sharjah\Documents\GAD\finalproject\finalproject\obj\Debug\finalproject.tQuiz.resources
+C:\Users\amc trading sharjah\Documents\GAD\finalproject\finalproject\obj\Debug\finalproject.parent.resources
+C:\Users\amc trading sharjah\Documents\GAD\finalproject\finalproject\obj\Debug\finalproject.parentFeedback.resources
+C:\Users\amc trading sharjah\Documents\GAD\finalproject\finalproject\obj\Debug\finalproject.parents.resources
+C:\Users\amc trading sharjah\Documents\GAD\finalproject\finalproject\obj\Debug\finalproject.parentLogin.resources
+C:\Users\amc trading sharjah\Documents\GAD\finalproject\finalproject\obj\Debug\finalproject.stMarksForm.resources
+C:\Users\amc trading sharjah\Documents\GAD\finalproject\finalproject\obj\Debug\finalproject.viewMarksForm.resources
+C:\Users\amc trading sharjah\Documents\Dip SE\GAD\finalproject\finalproject\bin\Debug\finalproject.exe.config
+C:\Users\amc trading sharjah\Documents\Dip SE\GAD\finalproject\finalproject\bin\Debug\finalproject.exe
+C:\Users\amc trading sharjah\Documents\Dip SE\GAD\finalproject\finalproject\bin\Debug\finalproject.pdb
+C:\Users\amc trading sharjah\Documents\Dip SE\GAD\finalproject\finalproject\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\amc trading sharjah\Documents\Dip SE\GAD\finalproject\finalproject\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\amc trading sharjah\Documents\Dip SE\GAD\finalproject\finalproject\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\amc trading sharjah\Documents\Dip SE\GAD\finalproject\finalproject\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\amc trading sharjah\Documents\Dip SE\GAD\finalproject\finalproject\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\amc trading sharjah\Documents\Dip SE\GAD\finalproject\finalproject\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\amc trading sharjah\Documents\Dip SE\GAD\finalproject\finalproject\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\amc trading sharjah\Documents\Dip SE\GAD\finalproject\finalproject\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\amc trading sharjah\Documents\Dip SE\GAD\finalproject\finalproject\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\amc trading sharjah\Documents\Dip SE\GAD\finalproject\finalproject\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\amc trading sharjah\Documents\Dip SE\GAD\finalproject\finalproject\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\amc trading sharjah\Documents\Dip SE\GAD\finalproject\finalproject\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\amc trading sharjah\Documents\Dip SE\GAD\finalproject\finalproject\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\amc trading sharjah\Documents\Dip SE\GAD\finalproject\finalproject\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\amc trading sharjah\Documents\Dip SE\GAD\finalproject\finalproject\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\amc trading sharjah\Documents\Dip SE\GAD\finalproject\finalproject\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\amc trading sharjah\Documents\Dip SE\GAD\finalproject\finalproject\bin\Debug\stdole.dll
+C:\Users\amc trading sharjah\Documents\Dip SE\GAD\finalproject\finalproject\obj\Debug\finalproject.csproj.AssemblyReference.cache
+C:\Users\amc trading sharjah\Documents\Dip SE\GAD\finalproject\finalproject\obj\Debug\finalproject.admin.resources
+C:\Users\amc trading sharjah\Documents\Dip SE\GAD\finalproject\finalproject\obj\Debug\finalproject.adminAddStSchedule.resources
+C:\Users\amc trading sharjah\Documents\Dip SE\GAD\finalproject\finalproject\obj\Debug\finalproject.adminAddEmpSchedule.resources
+C:\Users\amc trading sharjah\Documents\Dip SE\GAD\finalproject\finalproject\obj\Debug\finalproject.adminAddSub.resources
+C:\Users\amc trading sharjah\Documents\Dip SE\GAD\finalproject\finalproject\obj\Debug\finalproject.adminCls.resources
+C:\Users\amc trading sharjah\Documents\Dip SE\GAD\finalproject\finalproject\obj\Debug\finalproject.adminClsSchedule.resources
+C:\Users\amc trading sharjah\Documents\Dip SE\GAD\finalproject\finalproject\obj\Debug\finalproject.adminEvents.resources
+C:\Users\amc trading sharjah\Documents\Dip SE\GAD\finalproject\finalproject\obj\Debug\finalproject.adminReports.resources
+C:\Users\amc trading sharjah\Documents\Dip SE\GAD\finalproject\finalproject\obj\Debug\finalproject.adminResults.resources
+C:\Users\amc trading sharjah\Documents\Dip SE\GAD\finalproject\finalproject\obj\Debug\finalproject.adminSubject.resources
+C:\Users\amc trading sharjah\Documents\Dip SE\GAD\finalproject\finalproject\obj\Debug\finalproject.adminDelSub.resources
+C:\Users\amc trading sharjah\Documents\Dip SE\GAD\finalproject\finalproject\obj\Debug\finalproject.adminESchedule.resources
+C:\Users\amc trading sharjah\Documents\Dip SE\GAD\finalproject\finalproject\obj\Debug\finalproject.adminSchedule.resources
+C:\Users\amc trading sharjah\Documents\Dip SE\GAD\finalproject\finalproject\obj\Debug\finalproject.adminUpdateEmpSchedule.resources
+C:\Users\amc trading sharjah\Documents\Dip SE\GAD\finalproject\finalproject\obj\Debug\finalproject.adminUpdtStSchedule.resources
+C:\Users\amc trading sharjah\Documents\Dip SE\GAD\finalproject\finalproject\obj\Debug\finalproject.adminViewAddAcc.resources
+C:\Users\amc trading sharjah\Documents\Dip SE\GAD\finalproject\finalproject\obj\Debug\finalproject.adminSURAddUser.resources
+C:\Users\amc trading sharjah\Documents\Dip SE\GAD\finalproject\finalproject\obj\Debug\finalproject.adminSURDelUser.resources
+C:\Users\amc trading sharjah\Documents\Dip SE\GAD\finalproject\finalproject\obj\Debug\finalproject.adminSURecords.resources
+C:\Users\amc trading sharjah\Documents\Dip SE\GAD\finalproject\finalproject\obj\Debug\finalproject.adminSURUpdateUser.resources
+C:\Users\amc trading sharjah\Documents\Dip SE\GAD\finalproject\finalproject\obj\Debug\finalproject.adminViewAcc.resources
+C:\Users\amc trading sharjah\Documents\Dip SE\GAD\finalproject\finalproject\obj\Debug\finalproject.adminViewDelAcc.resources
+C:\Users\amc trading sharjah\Documents\Dip SE\GAD\finalproject\finalproject\obj\Debug\finalproject.coClassFee.resources
+C:\Users\amc trading sharjah\Documents\Dip SE\GAD\finalproject\finalproject\obj\Debug\finalproject.coLogin.resources
+C:\Users\amc trading sharjah\Documents\Dip SE\GAD\finalproject\finalproject\obj\Debug\finalproject.coordinator.resources
+C:\Users\amc trading sharjah\Documents\Dip SE\GAD\finalproject\finalproject\obj\Debug\finalproject.coStAttendance.resources
+C:\Users\amc trading sharjah\Documents\Dip SE\GAD\finalproject\finalproject\obj\Debug\finalproject.coTeacherSchedule.resources
+C:\Users\amc trading sharjah\Documents\Dip SE\GAD\finalproject\finalproject\obj\Debug\finalproject.crystalform1.resources
+C:\Users\amc trading sharjah\Documents\Dip SE\GAD\finalproject\finalproject\obj\Debug\finalproject.eOffence.resources
+C:\Users\amc trading sharjah\Documents\Dip SE\GAD\finalproject\finalproject\obj\Debug\finalproject.eResults.resources
+C:\Users\amc trading sharjah\Documents\Dip SE\GAD\finalproject\finalproject\obj\Debug\finalproject.examinationOfficer.resources
+C:\Users\amc trading sharjah\Documents\Dip SE\GAD\finalproject\finalproject\obj\Debug\finalproject.exLogin.resources
+C:\Users\amc trading sharjah\Documents\Dip SE\GAD\finalproject\finalproject\obj\Debug\finalproject.loading.resources
+C:\Users\amc trading sharjah\Documents\Dip SE\GAD\finalproject\finalproject\obj\Debug\finalproject.adminLogin.resources
+C:\Users\amc trading sharjah\Documents\Dip SE\GAD\finalproject\finalproject\obj\Debug\finalproject.parent.resources
+C:\Users\amc trading sharjah\Documents\Dip SE\GAD\finalproject\finalproject\obj\Debug\finalproject.parentFeedback.resources
+C:\Users\amc trading sharjah\Documents\Dip SE\GAD\finalproject\finalproject\obj\Debug\finalproject.parentLogin.resources
+C:\Users\amc trading sharjah\Documents\Dip SE\GAD\finalproject\finalproject\obj\Debug\finalproject.parents.resources
+C:\Users\amc trading sharjah\Documents\Dip SE\GAD\finalproject\finalproject\obj\Debug\finalproject.payLogin.resources
+C:\Users\amc trading sharjah\Documents\Dip SE\GAD\finalproject\finalproject\obj\Debug\finalproject.paymentClerk.resources
+C:\Users\amc trading sharjah\Documents\Dip SE\GAD\finalproject\finalproject\obj\Debug\finalproject.pEmpSalary.resources
+C:\Users\amc trading sharjah\Documents\Dip SE\GAD\finalproject\finalproject\obj\Debug\finalproject.pPayConf.resources
+C:\Users\amc trading sharjah\Documents\Dip SE\GAD\finalproject\finalproject\obj\Debug\finalproject.pPaymentStatus.resources
+C:\Users\amc trading sharjah\Documents\Dip SE\GAD\finalproject\finalproject\obj\Debug\finalproject.Properties.Resources.resources
+C:\Users\amc trading sharjah\Documents\Dip SE\GAD\finalproject\finalproject\obj\Debug\finalproject.pAddPayDetails.resources
+C:\Users\amc trading sharjah\Documents\Dip SE\GAD\finalproject\finalproject\obj\Debug\finalproject.salaryform.resources
+C:\Users\amc trading sharjah\Documents\Dip SE\GAD\finalproject\finalproject\obj\Debug\finalproject.selectionpg.resources
+C:\Users\amc trading sharjah\Documents\Dip SE\GAD\finalproject\finalproject\obj\Debug\finalproject.sSubmitAss.resources
+C:\Users\amc trading sharjah\Documents\Dip SE\GAD\finalproject\finalproject\obj\Debug\finalproject.stEvaluation.resources
+C:\Users\amc trading sharjah\Documents\Dip SE\GAD\finalproject\finalproject\obj\Debug\finalproject.stLogin.resources
+C:\Users\amc trading sharjah\Documents\Dip SE\GAD\finalproject\finalproject\obj\Debug\finalproject.stMarksForm.resources
+C:\Users\amc trading sharjah\Documents\Dip SE\GAD\finalproject\finalproject\obj\Debug\finalproject.stOnlineExams.resources
+C:\Users\amc trading sharjah\Documents\Dip SE\GAD\finalproject\finalproject\obj\Debug\finalproject.stQue.resources
+C:\Users\amc trading sharjah\Documents\Dip SE\GAD\finalproject\finalproject\obj\Debug\finalproject.stReportForm.resources
+C:\Users\amc trading sharjah\Documents\Dip SE\GAD\finalproject\finalproject\obj\Debug\finalproject.stTeacherComment.resources
+C:\Users\amc trading sharjah\Documents\Dip SE\GAD\finalproject\finalproject\obj\Debug\finalproject.student.resources
+C:\Users\amc trading sharjah\Documents\Dip SE\GAD\finalproject\finalproject\obj\Debug\finalproject.studentClsSchedule.resources
+C:\Users\amc trading sharjah\Documents\Dip SE\GAD\finalproject\finalproject\obj\Debug\finalproject.SubjectReport.resources
+C:\Users\amc trading sharjah\Documents\Dip SE\GAD\finalproject\finalproject\obj\Debug\finalproject.tConductOnLessons.resources
+C:\Users\amc trading sharjah\Documents\Dip SE\GAD\finalproject\finalproject\obj\Debug\finalproject.teacher.resources
+C:\Users\amc trading sharjah\Documents\Dip SE\GAD\finalproject\finalproject\obj\Debug\finalproject.teacherLogin.resources
+C:\Users\amc trading sharjah\Documents\Dip SE\GAD\finalproject\finalproject\obj\Debug\finalproject.teaComments.resources
+C:\Users\amc trading sharjah\Documents\Dip SE\GAD\finalproject\finalproject\obj\Debug\finalproject.teaReqLeaves.resources
+C:\Users\amc trading sharjah\Documents\Dip SE\GAD\finalproject\finalproject\obj\Debug\finalproject.tEnterResults.resources
+C:\Users\amc trading sharjah\Documents\Dip SE\GAD\finalproject\finalproject\obj\Debug\finalproject.tLearningMaterials.resources
+C:\Users\amc trading sharjah\Documents\Dip SE\GAD\finalproject\finalproject\obj\Debug\finalproject.tQuiz.resources
+C:\Users\amc trading sharjah\Documents\Dip SE\GAD\finalproject\finalproject\obj\Debug\finalproject.tReports.resources
+C:\Users\amc trading sharjah\Documents\Dip SE\GAD\finalproject\finalproject\obj\Debug\finalproject.tScheduleExam.resources
+C:\Users\amc trading sharjah\Documents\Dip SE\GAD\finalproject\finalproject\obj\Debug\finalproject.viewMarksForm.resources
+C:\Users\amc trading sharjah\Documents\Dip SE\GAD\finalproject\finalproject\obj\Debug\finalproject.csproj.GenerateResource.cache
+C:\Users\amc trading sharjah\Documents\Dip SE\GAD\finalproject\finalproject\obj\Debug\finalproject.csproj.CoreCompileInputs.cache
+C:\Users\amc trading sharjah\Documents\Dip SE\GAD\finalproject\finalproject\obj\Debug\finalpro.0608D504.Up2Date
+C:\Users\amc trading sharjah\Documents\Dip SE\GAD\finalproject\finalproject\obj\Debug\finalproject.exe
+C:\Users\amc trading sharjah\Documents\Dip SE\GAD\finalproject\finalproject\obj\Debug\finalproject.pdb

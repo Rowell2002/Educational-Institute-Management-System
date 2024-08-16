@@ -1,0 +1,1598 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|c:\\users\\amc trading sharjah\\documents\\dip se\\gad\\finalproject\\finalproject\\sattend.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}",
+      "RelativeMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|solutionrelative:finalproject\\sattend.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\strecordcrystal.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}",
+      "RelativeMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|solutionrelative:finalproject\\strecordcrystal.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\salaryreport.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}",
+      "RelativeMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|solutionrelative:finalproject\\salaryreport.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\salaryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|solutionrelative:finalproject\\salaryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\salaryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|solutionrelative:finalproject\\salaryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\stmarks.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}",
+      "RelativeMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|solutionrelative:finalproject\\stmarks.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\stmarksform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|solutionrelative:finalproject\\stmarksform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\stmarksform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|solutionrelative:finalproject\\stmarksform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\streportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|solutionrelative:finalproject\\streportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\streportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|solutionrelative:finalproject\\streportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\subjectreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|solutionrelative:finalproject\\subjectreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\subjectreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|solutionrelative:finalproject\\subjectreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\yrsalary.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}",
+      "RelativeMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|solutionrelative:finalproject\\yrsalary.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\viewmarksform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|solutionrelative:finalproject\\viewmarksform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\viewmarksform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|solutionrelative:finalproject\\viewmarksform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\adminresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|solutionrelative:finalproject\\adminresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\adminresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|solutionrelative:finalproject\\adminresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|solutionrelative:finalproject\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\treports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|solutionrelative:finalproject\\treports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\treports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|solutionrelative:finalproject\\treports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|solutionrelative:finalproject\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amc trading sharjah\\AppData\\Local\\Temp\\.vsdbgsrc\\b77d8295ade7b6c58377e3f438ace5c9fb90b6c036418415c122da1cb9a9109a\\CrossAppDomainUtils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\parent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|solutionrelative:finalproject\\parent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\parents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|solutionrelative:finalproject\\parents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|solutionrelative:finalproject\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|solutionrelative:finalproject\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\stmarks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|solutionrelative:finalproject\\stmarks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\strecordcrystal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|solutionrelative:finalproject\\strecordcrystal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\strecordcrystal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|solutionrelative:finalproject\\strecordcrystal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\parentlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|solutionrelative:finalproject\\parentlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\amc trading sharjah\\AppData\\Local\\Temp\\.vsdbgsrc\\e0336f4685a7af6201f2b35c2ddbea93929d38e688f944161c1c682c2a9bb7c9\\-Module-.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_MILEE7/education/True/SqlTable/dbo.result_tbl.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\parentfeedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|solutionrelative:finalproject\\parentfeedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\parentfeedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|solutionrelative:finalproject\\parentfeedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\adminevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|solutionrelative:finalproject\\adminevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\adminevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|solutionrelative:finalproject\\adminevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\teacomments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|solutionrelative:finalproject\\teacomments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\teacomments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|solutionrelative:finalproject\\teacomments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\stteachercomment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|solutionrelative:finalproject\\stteachercomment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\parents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|solutionrelative:finalproject\\parents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|solutionrelative:finalproject\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|solutionrelative:finalproject\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|solutionrelative:finalproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\selectionpg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|solutionrelative:finalproject\\selectionpg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\selectionpg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|solutionrelative:finalproject\\selectionpg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\parentlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|solutionrelative:finalproject\\parentlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\adminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|solutionrelative:finalproject\\adminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\adminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|solutionrelative:finalproject\\adminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\parent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|solutionrelative:finalproject\\parent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\parentfeedback.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|solutionrelative:finalproject\\parentfeedback.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\parent.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|solutionrelative:finalproject\\parent.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\parentfeedback.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|solutionrelative:finalproject\\parentfeedback.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\teareqleaves.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|solutionrelative:finalproject\\teareqleaves.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\teareqleaves.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|solutionrelative:finalproject\\teareqleaves.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\tscheduleexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|solutionrelative:finalproject\\tscheduleexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\tscheduleexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|solutionrelative:finalproject\\tscheduleexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\tquiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|solutionrelative:finalproject\\tquiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\tconductonlessons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|solutionrelative:finalproject\\tconductonlessons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\tquiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|solutionrelative:finalproject\\tquiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\tconductonlessons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|solutionrelative:finalproject\\tconductonlessons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\admincls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|solutionrelative:finalproject\\admincls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\coordinator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|solutionrelative:finalproject\\coordinator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\coordinator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|solutionrelative:finalproject\\coordinator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\tenterresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|solutionrelative:finalproject\\tenterresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\crystalform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|solutionrelative:finalproject\\crystalform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\crystalform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|solutionrelative:finalproject\\crystalform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\pempsalary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|solutionrelative:finalproject\\pempsalary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\adminsurecords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|solutionrelative:finalproject\\adminsurecords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\adminviewacc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|solutionrelative:finalproject\\adminviewacc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\adminviewacc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|solutionrelative:finalproject\\adminviewacc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\adminsurecords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|solutionrelative:finalproject\\adminsurecords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\adminaddsub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|solutionrelative:finalproject\\adminaddsub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\adminaddstschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|solutionrelative:finalproject\\adminaddstschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\adminreports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|solutionrelative:finalproject\\adminreports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_MILEE7/education/True/SqlTable/dbo.stClsSchedule_tbl.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\pempsalary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|solutionrelative:finalproject\\pempsalary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\adminsurdeluser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|solutionrelative:finalproject\\adminsurdeluser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\adminsurdeluser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|solutionrelative:finalproject\\adminsurdeluser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\stevaluation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|solutionrelative:finalproject\\stevaluation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\stonlineexams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|solutionrelative:finalproject\\stonlineexams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\studentclsschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|solutionrelative:finalproject\\studentclsschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\studentclsschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|solutionrelative:finalproject\\studentclsschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\stque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|solutionrelative:finalproject\\stque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\paylogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|solutionrelative:finalproject\\paylogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\admindelsub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|solutionrelative:finalproject\\admindelsub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\admindelsub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|solutionrelative:finalproject\\admindelsub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\stevaluation.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|solutionrelative:finalproject\\stevaluation.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\stque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|solutionrelative:finalproject\\stque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\adminclsschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|solutionrelative:finalproject\\adminclsschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\stque.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|solutionrelative:finalproject\\stque.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\stque.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|solutionrelative:finalproject\\stque.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\paymentclerk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|solutionrelative:finalproject\\paymentclerk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\adminreports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|solutionrelative:finalproject\\adminreports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\adminupdateempschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|solutionrelative:finalproject\\adminupdateempschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\adminupdateempschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|solutionrelative:finalproject\\adminupdateempschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\adminsubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|solutionrelative:finalproject\\adminsubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\adminschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|solutionrelative:finalproject\\adminschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\admineschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|solutionrelative:finalproject\\admineschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\admincls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|solutionrelative:finalproject\\admincls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\adminaddsub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|solutionrelative:finalproject\\adminaddsub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\adminaddstschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|solutionrelative:finalproject\\adminaddstschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\adminaddempschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501883B1-24AD-4424-82E4-2340AD5D1B63}|finalproject\\finalproject.csproj|solutionrelative:finalproject\\adminaddempschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "salaryReport.rpt",
+              "DocumentMoniker": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\salaryReport.rpt",
+              "RelativeDocumentMoniker": "finalproject\\salaryReport.rpt",
+              "ToolTip": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\salaryReport.rpt",
+              "RelativeToolTip": "finalproject\\salaryReport.rpt",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPHSURBVDhPrVTbbxRVGP\u002BdueylnW2X3a69EKjUtWEboMYIJYKaPhg0IWIwIfhgeKBpCS8aE30wQSP8ARpvIZv4QGIgXoMlDSE\u002B2BgjGi7W0kqlaVHKLlu6u7O7Mzs7t53xzOxIO1t98zf5Zuacme/3/b7zfefgf4Nl7Ydt28Qbuvh4/PpOYpET3vC/QciV4wceO\u002BWNGrCsTnrf5SP85Jup/XyAuZDqjSPAMe4cIb5fkMnLyOalW7BJOkCC6ZEXU5L3yQXnPR\u002BA51gMPpKgT4YGtb3ZVRimBVFS\u002BxPR8FvLRWXl/W\u002BnL712YMey9xkNGU1wREmKjny5ts4UzUC8LYyhVHeMZcgZ3rb2ffT9jOC5/juhAydVhllvzgLcK8iYuLyImm7Skf0eSvqY60ThJ2TpBCVynKiv\u002B\u002B6YTjR8Z1/EfeSw6aEIdqW6MJhMOCrRHRNirSE\u002B0iBoInQW1CFy4CikKUFhZMxiGhfkr/GZ9CkW2BvoiQuubewQ0BrmaQFXS\u002BFXSAvipEXpXGWiJWK\u002BPo\u002BbZBYz1d/wVeUszle/xJwxC5alAanR33xgeo/cDg0cnxH6RhfaRZlptW1aXduGhhqmtOv4oTaJOmsgSC/TMjEhncfp4gcomUUa16ah/YwMAspwTWdGLUs9cWnKfuVW1kahYmK8eBHXqtdQ01Qs3c9CLkgwRRNGwcDPSz/h1RvHINVL6xRyp4/1hDVNj5arVudcRu2Yuavh1Bd58BuSEDsXIXZdBSJUSZ2B\u002BqsKLashuelRvH7oDUQD7ZSQKl0Dbm8/90elSqScWPszwHJ6ewsz9Mu8gWo\u002BBim3HbpSRPjxq2BMBmbWxFDLbhzdPoInO/a4BE0CwQiC8Pu7b38\u002BmcmVx/sS9uVnUjyeHQwjxBNUl7bCuvk8yF87wNaCeGLjThwdHsHhp1\u002BmxWt0RPPWpMUkdjo9ZrwwvDWfEdWcKCs4uFvAnoEwujbwsHMPQ504grjSh3deOolDew83mpwS/dNanLfvHfjaJsiyCPAcWluC6O8OYXOCR0uIQzQYw5t9J5EMDTgn1INd47QN59gaFn8fOqBR6xYBPVSg00K0RzjEBA4C00aPKMYl9IOSr6HxESo6i5JC8OOcijsFi6bCoreDYFuPiUJJxp1lCbfvlbGYXTXNMH0p\u002B1b03GTmKdogH5bVwOaqakfMep2EWaMcD5bvlitSKdrWogpC2AwEectzcUHs\u002BrnnhpJn3Xd3xoMsy911sPvqpjUqKeo2uaoyK0V5anoue2ZhceWKqdWWjC1qJT02ZnguTQD\u002BBhJCiLbcBJthAAAAAElFTkSuQmCC",
+              "WhenOpened": "2024-06-26T09:55:44.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "stMarks.rpt",
+              "DocumentMoniker": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\stMarks.rpt",
+              "RelativeDocumentMoniker": "finalproject\\stMarks.rpt",
+              "ToolTip": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\stMarks.rpt",
+              "RelativeToolTip": "finalproject\\stMarks.rpt",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPHSURBVDhPrVTbbxRVGP\u002BdueylnW2X3a69EKjUtWEboMYIJYKaPhg0IWIwIfhgeKBpCS8aE30wQSP8ARpvIZv4QGIgXoMlDSE\u002B2BgjGi7W0kqlaVHKLlu6u7O7Mzs7t53xzOxIO1t98zf5Zuacme/3/b7zfefgf4Nl7Ydt28Qbuvh4/PpOYpET3vC/QciV4wceO\u002BWNGrCsTnrf5SP85Jup/XyAuZDqjSPAMe4cIb5fkMnLyOalW7BJOkCC6ZEXU5L3yQXnPR\u002BA51gMPpKgT4YGtb3ZVRimBVFS\u002BxPR8FvLRWXl/W\u002BnL712YMey9xkNGU1wREmKjny5ts4UzUC8LYyhVHeMZcgZ3rb2ffT9jOC5/juhAydVhllvzgLcK8iYuLyImm7Skf0eSvqY60ThJ2TpBCVynKiv\u002B\u002B6YTjR8Z1/EfeSw6aEIdqW6MJhMOCrRHRNirSE\u002B0iBoInQW1CFy4CikKUFhZMxiGhfkr/GZ9CkW2BvoiQuubewQ0BrmaQFXS\u002BFXSAvipEXpXGWiJWK\u002BPo\u002BbZBYz1d/wVeUszle/xJwxC5alAanR33xgeo/cDg0cnxH6RhfaRZlptW1aXduGhhqmtOv4oTaJOmsgSC/TMjEhncfp4gcomUUa16ah/YwMAspwTWdGLUs9cWnKfuVW1kahYmK8eBHXqtdQ01Qs3c9CLkgwRRNGwcDPSz/h1RvHINVL6xRyp4/1hDVNj5arVudcRu2Yuavh1Bd58BuSEDsXIXZdBSJUSZ2B\u002BqsKLashuelRvH7oDUQD7ZSQKl0Dbm8/90elSqScWPszwHJ6ewsz9Mu8gWo\u002BBim3HbpSRPjxq2BMBmbWxFDLbhzdPoInO/a4BE0CwQiC8Pu7b38\u002BmcmVx/sS9uVnUjyeHQwjxBNUl7bCuvk8yF87wNaCeGLjThwdHsHhp1\u002BmxWt0RPPWpMUkdjo9ZrwwvDWfEdWcKCs4uFvAnoEwujbwsHMPQ504grjSh3deOolDew83mpwS/dNanLfvHfjaJsiyCPAcWluC6O8OYXOCR0uIQzQYw5t9J5EMDTgn1INd47QN59gaFn8fOqBR6xYBPVSg00K0RzjEBA4C00aPKMYl9IOSr6HxESo6i5JC8OOcijsFi6bCoreDYFuPiUJJxp1lCbfvlbGYXTXNMH0p\u002B1b03GTmKdogH5bVwOaqakfMep2EWaMcD5bvlitSKdrWogpC2AwEectzcUHs\u002BrnnhpJn3Xd3xoMsy911sPvqpjUqKeo2uaoyK0V5anoue2ZhceWKqdWWjC1qJT02ZnguTQD\u002BBhJCiLbcBJthAAAAAElFTkSuQmCC",
+              "WhenOpened": "2024-06-26T09:41:00.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "sAttend.rpt",
+              "DocumentMoniker": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\sAttend.rpt",
+              "RelativeDocumentMoniker": "finalproject\\sAttend.rpt",
+              "ToolTip": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\sAttend.rpt",
+              "RelativeToolTip": "finalproject\\sAttend.rpt",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPdSURBVDhPrZRbaBxVGMf/c9nd2Vuyu9nN5m7aStI2oWtSCBgtWgj10oe2D2Le1FRRBBEk\u002BCJo8amIIL5U0BfFF6mFalOs0CdrWqhJNkmTUEyyzaXuJpvsdXZ2dnauntmdbJvEvvkb/pxvZr7vP\u002Bec\u002BTj4XzEMg7LCCj39z7/y6vC7n1m3T2RtaWHi8ncXP7Bud8FaYwVPnS94pPeZgcihIBiGBkWuvfyzXcC0P9SsKrJ08\u002Br3XxbymaT1qgJjjRXaOrsiz518\u002BdyJSCv8Xid8HgcCXo7Ej1QQZciGrf7EswN9W\u002BlMLpva3hCLfNayAG2NNcw50RSFYklBtiAhs0diWYXXZcfxo23O4fMfXewbHHrNWx8IV6v/w7AGcSa\u002B\u002B0VebeVEXBuPgSezPT383qdDZ98YrRY9YYYmDKlm6KpkWsLvxhg2qTjaw14M9rRg4EgTBntbcKCtwel2OzmrbLchRUxoYmBe5kjTNAS6gHvGLK4LV/FD/lssUBMIB9xosuThbOSjj2z2GJr7txNTyGgpLGl/Y5G6j/viPH4VruAX4WfMKzOVD5qzN/Meh2ZcjRxRHZGPste7dIOGphuQjCKiUhTjpXFojAyH7oCmabjJ38Cl9FfIKCkYlLbPkG0\u002Bc/lFQI\u002BQOEg1cpGlDYP8TQVjxetYLi9DhYZcKYdCloeqqSQViKYn8f7GCL4\u002BdolsjrPqZMF\u002B8\u002BExV1lRfGleaY5tlP0zqzIu/JQC6\u002BtCOryCXDgKw6OD1hhIs2WU4xI6mjsx\u002BvrHaORCyFCCZVWFVgtri7qw/mebt3Br4BC73NPBIZGWEVsM4uFsL9KrByGyAkkkWxFX0cf24/zRt/FC6CQ8Ns\u002B\u002BJTM5tX47OrOwSp6vdbb6Q4c73Kc4O4tYUkN6MwRKDsLuT0HMJ/CU1I43B0bw1tBIxcjUZlpAdGpqYvavWzcqhrH524jN39FFxVZk65qebm1uOHeqP4BkXsc2r0NM\u002BWE8OAy7L4rPX/oEZyJnwZI22WmvZKaE6ejkxPTdqmGtbebu/oa529dgt7FwO\u002B3obnGgI2iDi2PgdzRg9MAFdLl6YZBcilSZKzXbj5whtVYzqRlKRR6lYp4kUzBbJ1cCNFJZ72Hhd9sRtIXB6nboul5b7uPaoWZoompAtghMLEuIZwxyhDFoD9LoDqvI8SISKQFxcnytb/E1lWS1cpjssOs8pGiGVw37yty61Ej\u002BC9cZouBlVTHoKKTWE7liOsvL0EpaucSbK6\u002BR2kqsWeFuw5YAN336eOCLsqK\u002BIxSl7rwgI54UZhaWtn9cXElOKqr28N6dMX7qjyuKVbIH4F/CwpxOdjf1iQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-06-26T09:48:20.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "viewMarksForm.cs",
+              "DocumentMoniker": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\viewMarksForm.cs",
+              "RelativeDocumentMoniker": "finalproject\\viewMarksForm.cs",
+              "ToolTip": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\viewMarksForm.cs",
+              "RelativeToolTip": "finalproject\\viewMarksForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGIAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T19:52:15.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SubjectReport.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\SubjectReport.cs",
+              "RelativeDocumentMoniker": "finalproject\\SubjectReport.cs",
+              "ToolTip": "C:\\Users\\amc trading sharjah\\Documents\\GAD\\finalproject\\finalproject\\SubjectReport.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\GAD\\finalproject\\finalproject\\SubjectReport.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T08:27:36.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SubjectReport.cs",
+              "DocumentMoniker": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\SubjectReport.cs",
+              "RelativeDocumentMoniker": "finalproject\\SubjectReport.cs",
+              "ToolTip": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\SubjectReport.cs",
+              "RelativeToolTip": "finalproject\\SubjectReport.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T08:41:53.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "salaryform.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\salaryform.cs",
+              "RelativeDocumentMoniker": "finalproject\\salaryform.cs",
+              "ToolTip": "C:\\Users\\amc trading sharjah\\Documents\\GAD\\finalproject\\finalproject\\salaryform.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\GAD\\finalproject\\finalproject\\salaryform.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T07:43:25.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "salaryform.cs",
+              "DocumentMoniker": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\salaryform.cs",
+              "RelativeDocumentMoniker": "finalproject\\salaryform.cs",
+              "ToolTip": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\salaryform.cs",
+              "RelativeToolTip": "finalproject\\salaryform.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAvwEwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T07:53:50.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "stRecordCrystal.rpt",
+              "DocumentMoniker": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\stRecordCrystal.rpt",
+              "RelativeDocumentMoniker": "finalproject\\stRecordCrystal.rpt",
+              "ToolTip": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\stRecordCrystal.rpt",
+              "RelativeToolTip": "finalproject\\stRecordCrystal.rpt",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPHSURBVDhPrVTbbxRVGP\u002BdueylnW2X3a69EKjUtWEboMYIJYKaPhg0IWIwIfhgeKBpCS8aE30wQSP8ARpvIZv4QGIgXoMlDSE\u002B2BgjGi7W0kqlaVHKLlu6u7O7Mzs7t53xzOxIO1t98zf5Zuacme/3/b7zfefgf4Nl7Ydt28Qbuvh4/PpOYpET3vC/QciV4wceO\u002BWNGrCsTnrf5SP85Jup/XyAuZDqjSPAMe4cIb5fkMnLyOalW7BJOkCC6ZEXU5L3yQXnPR\u002BA51gMPpKgT4YGtb3ZVRimBVFS\u002BxPR8FvLRWXl/W\u002BnL712YMey9xkNGU1wREmKjny5ts4UzUC8LYyhVHeMZcgZ3rb2ffT9jOC5/juhAydVhllvzgLcK8iYuLyImm7Skf0eSvqY60ThJ2TpBCVynKiv\u002B\u002B6YTjR8Z1/EfeSw6aEIdqW6MJhMOCrRHRNirSE\u002B0iBoInQW1CFy4CikKUFhZMxiGhfkr/GZ9CkW2BvoiQuubewQ0BrmaQFXS\u002BFXSAvipEXpXGWiJWK\u002BPo\u002BbZBYz1d/wVeUszle/xJwxC5alAanR33xgeo/cDg0cnxH6RhfaRZlptW1aXduGhhqmtOv4oTaJOmsgSC/TMjEhncfp4gcomUUa16ah/YwMAspwTWdGLUs9cWnKfuVW1kahYmK8eBHXqtdQ01Qs3c9CLkgwRRNGwcDPSz/h1RvHINVL6xRyp4/1hDVNj5arVudcRu2Yuavh1Bd58BuSEDsXIXZdBSJUSZ2B\u002BqsKLashuelRvH7oDUQD7ZSQKl0Dbm8/90elSqScWPszwHJ6ewsz9Mu8gWo\u002BBim3HbpSRPjxq2BMBmbWxFDLbhzdPoInO/a4BE0CwQiC8Pu7b38\u002BmcmVx/sS9uVnUjyeHQwjxBNUl7bCuvk8yF87wNaCeGLjThwdHsHhp1\u002BmxWt0RPPWpMUkdjo9ZrwwvDWfEdWcKCs4uFvAnoEwujbwsHMPQ504grjSh3deOolDew83mpwS/dNanLfvHfjaJsiyCPAcWluC6O8OYXOCR0uIQzQYw5t9J5EMDTgn1INd47QN59gaFn8fOqBR6xYBPVSg00K0RzjEBA4C00aPKMYl9IOSr6HxESo6i5JC8OOcijsFi6bCoreDYFuPiUJJxp1lCbfvlbGYXTXNMH0p\u002B1b03GTmKdogH5bVwOaqakfMep2EWaMcD5bvlitSKdrWogpC2AwEectzcUHs\u002BrnnhpJn3Xd3xoMsy911sPvqpjUqKeo2uaoyK0V5anoue2ZhceWKqdWWjC1qJT02ZnguTQD\u002BBhJCiLbcBJthAAAAAElFTkSuQmCC",
+              "WhenOpened": "2024-06-23T18:36:12.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "stMarksForm.cs",
+              "DocumentMoniker": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\stMarksForm.cs",
+              "RelativeDocumentMoniker": "finalproject\\stMarksForm.cs",
+              "ToolTip": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\stMarksForm.cs",
+              "RelativeToolTip": "finalproject\\stMarksForm.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAjwCEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T19:01:13.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "adminResults.cs",
+              "DocumentMoniker": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\adminResults.cs",
+              "RelativeDocumentMoniker": "finalproject\\adminResults.cs",
+              "ToolTip": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\adminResults.cs",
+              "RelativeToolTip": "finalproject\\adminResults.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAgwBsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T08:24:48.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "stMarksForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\stMarksForm.cs",
+              "RelativeDocumentMoniker": "finalproject\\stMarksForm.cs",
+              "ToolTip": "C:\\Users\\amc trading sharjah\\Documents\\GAD\\finalproject\\finalproject\\stMarksForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\GAD\\finalproject\\finalproject\\stMarksForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T18:57:52.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "stReportForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\stReportForm.cs",
+              "RelativeDocumentMoniker": "finalproject\\stReportForm.cs",
+              "ToolTip": "C:\\Users\\amc trading sharjah\\Documents\\GAD\\finalproject\\finalproject\\stReportForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\GAD\\finalproject\\finalproject\\stReportForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T07:44:16.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "tReports.cs",
+              "DocumentMoniker": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\tReports.cs",
+              "RelativeDocumentMoniker": "finalproject\\tReports.cs",
+              "ToolTip": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\tReports.cs",
+              "RelativeToolTip": "finalproject\\tReports.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAvwBgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T09:22:34.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "stReportForm.cs",
+              "DocumentMoniker": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\stReportForm.cs",
+              "RelativeDocumentMoniker": "finalproject\\stReportForm.cs",
+              "ToolTip": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\stReportForm.cs",
+              "RelativeToolTip": "finalproject\\stReportForm.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAlwDIAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T08:43:52.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "yrSalary.rpt",
+              "DocumentMoniker": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\yrSalary.rpt",
+              "RelativeDocumentMoniker": "finalproject\\yrSalary.rpt",
+              "ToolTip": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\yrSalary.rpt",
+              "RelativeToolTip": "finalproject\\yrSalary.rpt",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPHSURBVDhPrVTbbxRVGP\u002BdueylnW2X3a69EKjUtWEboMYIJYKaPhg0IWIwIfhgeKBpCS8aE30wQSP8ARpvIZv4QGIgXoMlDSE\u002B2BgjGi7W0kqlaVHKLlu6u7O7Mzs7t53xzOxIO1t98zf5Zuacme/3/b7zfefgf4Nl7Ydt28Qbuvh4/PpOYpET3vC/QciV4wceO\u002BWNGrCsTnrf5SP85Jup/XyAuZDqjSPAMe4cIb5fkMnLyOalW7BJOkCC6ZEXU5L3yQXnPR\u002BA51gMPpKgT4YGtb3ZVRimBVFS\u002BxPR8FvLRWXl/W\u002BnL712YMey9xkNGU1wREmKjny5ts4UzUC8LYyhVHeMZcgZ3rb2ffT9jOC5/juhAydVhllvzgLcK8iYuLyImm7Skf0eSvqY60ThJ2TpBCVynKiv\u002B\u002B6YTjR8Z1/EfeSw6aEIdqW6MJhMOCrRHRNirSE\u002B0iBoInQW1CFy4CikKUFhZMxiGhfkr/GZ9CkW2BvoiQuubewQ0BrmaQFXS\u002BFXSAvipEXpXGWiJWK\u002BPo\u002BbZBYz1d/wVeUszle/xJwxC5alAanR33xgeo/cDg0cnxH6RhfaRZlptW1aXduGhhqmtOv4oTaJOmsgSC/TMjEhncfp4gcomUUa16ah/YwMAspwTWdGLUs9cWnKfuVW1kahYmK8eBHXqtdQ01Qs3c9CLkgwRRNGwcDPSz/h1RvHINVL6xRyp4/1hDVNj5arVudcRu2Yuavh1Bd58BuSEDsXIXZdBSJUSZ2B\u002BqsKLashuelRvH7oDUQD7ZSQKl0Dbm8/90elSqScWPszwHJ6ewsz9Mu8gWo\u002BBim3HbpSRPjxq2BMBmbWxFDLbhzdPoInO/a4BE0CwQiC8Pu7b38\u002BmcmVx/sS9uVnUjyeHQwjxBNUl7bCuvk8yF87wNaCeGLjThwdHsHhp1\u002BmxWt0RPPWpMUkdjo9ZrwwvDWfEdWcKCs4uFvAnoEwujbwsHMPQ504grjSh3deOolDew83mpwS/dNanLfvHfjaJsiyCPAcWluC6O8OYXOCR0uIQzQYw5t9J5EMDTgn1INd47QN59gaFn8fOqBR6xYBPVSg00K0RzjEBA4C00aPKMYl9IOSr6HxESo6i5JC8OOcijsFi6bCoreDYFuPiUJJxp1lCbfvlbGYXTXNMH0p\u002B1b03GTmKdogH5bVwOaqakfMep2EWaMcD5bvlitSKdrWogpC2AwEectzcUHs\u002BrnnhpJn3Xd3xoMsy911sPvqpjUqKeo2uaoyK0V5anoue2ZhceWKqdWWjC1qJT02ZnguTQD\u002BBhJCiLbcBJthAAAAAElFTkSuQmCC",
+              "WhenOpened": "2024-06-26T08:26:07.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "tReports.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\tReports.cs",
+              "RelativeDocumentMoniker": "finalproject\\tReports.cs",
+              "ToolTip": "C:\\Users\\amc trading sharjah\\Documents\\GAD\\finalproject\\finalproject\\tReports.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\GAD\\finalproject\\finalproject\\tReports.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T09:22:27.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "teacher.cs",
+              "DocumentMoniker": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\teacher.cs",
+              "RelativeDocumentMoniker": "finalproject\\teacher.cs",
+              "ToolTip": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\teacher.cs",
+              "RelativeToolTip": "finalproject\\teacher.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAlwCUAAAB6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T09:22:10.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "viewMarksForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\viewMarksForm.cs",
+              "RelativeDocumentMoniker": "finalproject\\viewMarksForm.cs",
+              "ToolTip": "C:\\Users\\amc trading sharjah\\Documents\\GAD\\finalproject\\finalproject\\viewMarksForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\GAD\\finalproject\\finalproject\\viewMarksForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T19:50:50.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "adminResults.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\adminResults.cs",
+              "RelativeDocumentMoniker": "finalproject\\adminResults.cs",
+              "ToolTip": "C:\\Users\\amc trading sharjah\\Documents\\GAD\\finalproject\\finalproject\\adminResults.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\GAD\\finalproject\\finalproject\\adminResults.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T20:02:21.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "teacher.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\teacher.cs",
+              "RelativeDocumentMoniker": "finalproject\\teacher.cs",
+              "ToolTip": "C:\\Users\\amc trading sharjah\\Documents\\GAD\\finalproject\\finalproject\\teacher.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\GAD\\finalproject\\finalproject\\teacher.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T09:22:06.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CrossAppDomainUtils.cs",
+              "DocumentMoniker": "C:\\Users\\amc trading sharjah\\AppData\\Local\\Temp\\.vsdbgsrc\\b77d8295ade7b6c58377e3f438ace5c9fb90b6c036418415c122da1cb9a9109a\\CrossAppDomainUtils.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\b77d8295ade7b6c58377e3f438ace5c9fb90b6c036418415c122da1cb9a9109a\\CrossAppDomainUtils.cs",
+              "ToolTip": "C:\\Users\\amc trading sharjah\\AppData\\Local\\Temp\\.vsdbgsrc\\b77d8295ade7b6c58377e3f438ace5c9fb90b6c036418415c122da1cb9a9109a\\CrossAppDomainUtils.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\b77d8295ade7b6c58377e3f438ace5c9fb90b6c036418415c122da1cb9a9109a\\CrossAppDomainUtils.cs [Read Only]",
+              "ViewState": "AQIAAIcAAAAAAAAAAAAAADkAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T19:41:45.575Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "parent.cs",
+              "DocumentMoniker": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\parent.cs",
+              "RelativeDocumentMoniker": "finalproject\\parent.cs",
+              "ToolTip": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\parent.cs",
+              "RelativeToolTip": "finalproject\\parent.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAWwCgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T16:29:14.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "stMarks.cs",
+              "DocumentMoniker": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\stMarks.cs",
+              "RelativeDocumentMoniker": "finalproject\\stMarks.cs",
+              "ToolTip": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\stMarks.cs",
+              "RelativeToolTip": "finalproject\\stMarks.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAIwD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T18:54:05.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "student.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\student.cs",
+              "RelativeDocumentMoniker": "finalproject\\student.cs",
+              "ToolTip": "C:\\Users\\amc trading sharjah\\Documents\\GAD\\finalproject\\finalproject\\student.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\GAD\\finalproject\\finalproject\\student.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T09:21:52.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "parents.cs",
+              "DocumentMoniker": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\parents.cs",
+              "RelativeDocumentMoniker": "finalproject\\parents.cs",
+              "ToolTip": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\parents.cs",
+              "RelativeToolTip": "finalproject\\parents.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAADgv14AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T17:27:32.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "parent.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\parent.cs",
+              "RelativeDocumentMoniker": "finalproject\\parent.cs",
+              "ToolTip": "C:\\Users\\amc trading sharjah\\Documents\\GAD\\finalproject\\finalproject\\parent.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\GAD\\finalproject\\finalproject\\parent.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T16:22:16.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "stRecordCrystal.cs",
+              "DocumentMoniker": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\stRecordCrystal.cs",
+              "RelativeDocumentMoniker": "finalproject\\stRecordCrystal.cs",
+              "ToolTip": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\stRecordCrystal.cs",
+              "RelativeToolTip": "finalproject\\stRecordCrystal.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAA0wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T18:36:23.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "stRecordCrystal.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\stRecordCrystal.cs",
+              "RelativeDocumentMoniker": "finalproject\\stRecordCrystal.cs",
+              "ToolTip": "C:\\Users\\amc trading sharjah\\Documents\\GAD\\finalproject\\finalproject\\stRecordCrystal.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\GAD\\finalproject\\finalproject\\stRecordCrystal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T18:36:18.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "adminEvents.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\adminEvents.cs",
+              "RelativeDocumentMoniker": "finalproject\\adminEvents.cs",
+              "ToolTip": "C:\\Users\\amc trading sharjah\\Documents\\GAD\\finalproject\\finalproject\\adminEvents.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\GAD\\finalproject\\finalproject\\adminEvents.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T08:21:32.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "student.cs",
+              "DocumentMoniker": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\student.cs",
+              "RelativeDocumentMoniker": "finalproject\\student.cs",
+              "ToolTip": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\student.cs",
+              "RelativeToolTip": "finalproject\\student.cs",
+              "ViewState": "AQIAAIcAAAAAAAAAAAAtwJEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T09:52:18.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "selectionpg.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\selectionpg.cs",
+              "RelativeDocumentMoniker": "finalproject\\selectionpg.cs",
+              "ToolTip": "C:\\Users\\amc trading sharjah\\Documents\\GAD\\finalproject\\finalproject\\selectionpg.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\GAD\\finalproject\\finalproject\\selectionpg.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T16:59:54.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "admin.cs",
+              "DocumentMoniker": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\admin.cs",
+              "RelativeDocumentMoniker": "finalproject\\admin.cs",
+              "ToolTip": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\admin.cs",
+              "RelativeToolTip": "finalproject\\admin.cs",
+              "ViewState": "AQIAAJoAAAAAAAAAAAAnwLsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T09:19:39.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "parentLogin.cs",
+              "DocumentMoniker": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\parentLogin.cs",
+              "RelativeDocumentMoniker": "finalproject\\parentLogin.cs",
+              "ToolTip": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\parentLogin.cs",
+              "RelativeToolTip": "finalproject\\parentLogin.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAqwDQAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T18:00:16.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "parentFeedback.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\parentFeedback.cs",
+              "RelativeDocumentMoniker": "finalproject\\parentFeedback.cs",
+              "ToolTip": "C:\\Users\\amc trading sharjah\\Documents\\GAD\\finalproject\\finalproject\\parentFeedback.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\GAD\\finalproject\\finalproject\\parentFeedback.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T16:56:44.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "parentFeedback.cs",
+              "DocumentMoniker": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\parentFeedback.cs",
+              "RelativeDocumentMoniker": "finalproject\\parentFeedback.cs",
+              "ToolTip": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\parentFeedback.cs",
+              "RelativeToolTip": "finalproject\\parentFeedback.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAiwHAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T16:57:45.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "adminEvents.cs",
+              "DocumentMoniker": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\adminEvents.cs",
+              "RelativeDocumentMoniker": "finalproject\\adminEvents.cs",
+              "ToolTip": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\adminEvents.cs",
+              "RelativeToolTip": "finalproject\\adminEvents.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAC0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T08:21:33.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "-Module-.cs",
+              "DocumentMoniker": "C:\\Users\\amc trading sharjah\\AppData\\Local\\Temp\\.vsdbgsrc\\e0336f4685a7af6201f2b35c2ddbea93929d38e688f944161c1c682c2a9bb7c9\\-Module-.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\e0336f4685a7af6201f2b35c2ddbea93929d38e688f944161c1c682c2a9bb7c9\\-Module-.cs",
+              "ToolTip": "C:\\Users\\amc trading sharjah\\AppData\\Local\\Temp\\.vsdbgsrc\\e0336f4685a7af6201f2b35c2ddbea93929d38e688f944161c1c682c2a9bb7c9\\-Module-.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\e0336f4685a7af6201f2b35c2ddbea93929d38e688f944161c1c682c2a9bb7c9\\-Module-.cs",
+              "ViewState": "AQIAAFNgAAAAAAAAAAAUwGJgAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T18:15:32.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "dbo.result_tbl [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_MILEE7/education/True/SqlTable/dbo.result_tbl.sql",
+              "ToolTip": "dbo.result_tbl [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-23T18:13:23.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "admin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\admin.cs",
+              "RelativeDocumentMoniker": "finalproject\\admin.cs",
+              "ToolTip": "C:\\Users\\amc trading sharjah\\Documents\\GAD\\finalproject\\finalproject\\admin.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\GAD\\finalproject\\finalproject\\admin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T09:19:37.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "teaComments.cs",
+              "DocumentMoniker": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\teaComments.cs",
+              "RelativeDocumentMoniker": "finalproject\\teaComments.cs",
+              "ToolTip": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\teaComments.cs",
+              "RelativeToolTip": "finalproject\\teaComments.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAD4v3wAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T15:03:01.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "teaComments.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\teaComments.cs",
+              "RelativeDocumentMoniker": "finalproject\\teaComments.cs",
+              "ToolTip": "C:\\Users\\amc trading sharjah\\Documents\\GAD\\finalproject\\finalproject\\teaComments.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\GAD\\finalproject\\finalproject\\teaComments.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T14:50:06.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "selectionpg.cs",
+              "DocumentMoniker": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\selectionpg.cs",
+              "RelativeDocumentMoniker": "finalproject\\selectionpg.cs",
+              "ToolTip": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\selectionpg.cs",
+              "RelativeToolTip": "finalproject\\selectionpg.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAawGAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T16:59:57.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "parents.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\parents.cs",
+              "RelativeDocumentMoniker": "finalproject\\parents.cs",
+              "ToolTip": "C:\\Users\\amc trading sharjah\\Documents\\GAD\\finalproject\\finalproject\\parents.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\GAD\\finalproject\\finalproject\\parents.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T17:24:38.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "stTeacherComment.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\stTeacherComment.cs",
+              "RelativeDocumentMoniker": "finalproject\\stTeacherComment.cs",
+              "ToolTip": "C:\\Users\\amc trading sharjah\\Documents\\GAD\\finalproject\\finalproject\\stTeacherComment.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\GAD\\finalproject\\finalproject\\stTeacherComment.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T08:18:17.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\Program.cs",
+              "RelativeDocumentMoniker": "finalproject\\Program.cs",
+              "ToolTip": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\Program.cs",
+              "RelativeToolTip": "finalproject\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T07:35:43.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "adminLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\adminLogin.cs",
+              "RelativeDocumentMoniker": "finalproject\\adminLogin.cs",
+              "ToolTip": "C:\\Users\\amc trading sharjah\\Documents\\GAD\\finalproject\\finalproject\\adminLogin.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\GAD\\finalproject\\finalproject\\adminLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T17:53:23.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "parentLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\parentLogin.cs",
+              "RelativeDocumentMoniker": "finalproject\\parentLogin.cs",
+              "ToolTip": "C:\\Users\\amc trading sharjah\\Documents\\GAD\\finalproject\\finalproject\\parentLogin.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\GAD\\finalproject\\finalproject\\parentLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T17:57:48.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "adminLogin.cs",
+              "DocumentMoniker": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\adminLogin.cs",
+              "RelativeDocumentMoniker": "finalproject\\adminLogin.cs",
+              "ToolTip": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\adminLogin.cs",
+              "RelativeToolTip": "finalproject\\adminLogin.cs",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAowJ4AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T18:04:01.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "parentFeedback.resx",
+              "DocumentMoniker": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\parentFeedback.resx",
+              "RelativeDocumentMoniker": "finalproject\\parentFeedback.resx",
+              "ToolTip": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\parentFeedback.resx",
+              "RelativeToolTip": "finalproject\\parentFeedback.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-06-20T17:08:03.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "parentFeedback.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\parentFeedback.Designer.cs",
+              "RelativeDocumentMoniker": "finalproject\\parentFeedback.Designer.cs",
+              "ToolTip": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\parentFeedback.Designer.cs",
+              "RelativeToolTip": "finalproject\\parentFeedback.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T17:07:55.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "parent.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\parent.Designer.cs",
+              "RelativeDocumentMoniker": "finalproject\\parent.Designer.cs",
+              "ToolTip": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\parent.Designer.cs",
+              "RelativeToolTip": "finalproject\\parent.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAI0AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T17:08:12.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "teaReqLeaves.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\teaReqLeaves.cs",
+              "RelativeDocumentMoniker": "finalproject\\teaReqLeaves.cs",
+              "ToolTip": "C:\\Users\\amc trading sharjah\\Documents\\GAD\\finalproject\\finalproject\\teaReqLeaves.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\GAD\\finalproject\\finalproject\\teaReqLeaves.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T15:11:57.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "teaReqLeaves.cs",
+              "DocumentMoniker": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\teaReqLeaves.cs",
+              "RelativeDocumentMoniker": "finalproject\\teaReqLeaves.cs",
+              "ToolTip": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\teaReqLeaves.cs",
+              "RelativeToolTip": "finalproject\\teaReqLeaves.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAgwCwAAABxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T15:21:29.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "tScheduleExam.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\tScheduleExam.cs",
+              "RelativeDocumentMoniker": "finalproject\\tScheduleExam.cs",
+              "ToolTip": "C:\\Users\\amc trading sharjah\\Documents\\GAD\\finalproject\\finalproject\\tScheduleExam.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\GAD\\finalproject\\finalproject\\tScheduleExam.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T16:05:08.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "tScheduleExam.cs",
+              "DocumentMoniker": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\tScheduleExam.cs",
+              "RelativeDocumentMoniker": "finalproject\\tScheduleExam.cs",
+              "ToolTip": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\tScheduleExam.cs",
+              "RelativeToolTip": "finalproject\\tScheduleExam.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAEwGMAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T16:05:18.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "tConductOnLessons.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\tConductOnLessons.cs",
+              "RelativeDocumentMoniker": "finalproject\\tConductOnLessons.cs",
+              "ToolTip": "C:\\Users\\amc trading sharjah\\Documents\\GAD\\finalproject\\finalproject\\tConductOnLessons.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\GAD\\finalproject\\finalproject\\tConductOnLessons.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T14:43:08.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "tQuiz.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\tQuiz.cs",
+              "RelativeDocumentMoniker": "finalproject\\tQuiz.cs",
+              "ToolTip": "C:\\Users\\amc trading sharjah\\Documents\\GAD\\finalproject\\finalproject\\tQuiz.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\GAD\\finalproject\\finalproject\\tQuiz.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T15:39:41.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "tQuiz.cs",
+              "DocumentMoniker": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\tQuiz.cs",
+              "RelativeDocumentMoniker": "finalproject\\tQuiz.cs",
+              "ToolTip": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\tQuiz.cs",
+              "RelativeToolTip": "finalproject\\tQuiz.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T15:45:42.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "tConductOnLessons.cs",
+              "DocumentMoniker": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\tConductOnLessons.cs",
+              "RelativeDocumentMoniker": "finalproject\\tConductOnLessons.cs",
+              "ToolTip": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\tConductOnLessons.cs",
+              "RelativeToolTip": "finalproject\\tConductOnLessons.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAewBkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T14:44:22.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "adminCls.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\adminCls.cs",
+              "RelativeDocumentMoniker": "finalproject\\adminCls.cs",
+              "ToolTip": "C:\\Users\\amc trading sharjah\\Documents\\GAD\\finalproject\\finalproject\\adminCls.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\GAD\\finalproject\\finalproject\\adminCls.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T09:24:08.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "coordinator.cs",
+              "DocumentMoniker": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\coordinator.cs",
+              "RelativeDocumentMoniker": "finalproject\\coordinator.cs",
+              "ToolTip": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\coordinator.cs",
+              "RelativeToolTip": "finalproject\\coordinator.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAMwFoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T09:55:30.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "coordinator.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\coordinator.cs",
+              "RelativeDocumentMoniker": "finalproject\\coordinator.cs",
+              "ToolTip": "C:\\Users\\amc trading sharjah\\Documents\\GAD\\finalproject\\finalproject\\coordinator.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\GAD\\finalproject\\finalproject\\coordinator.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T09:54:50.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "tEnterResults.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\tEnterResults.cs",
+              "RelativeDocumentMoniker": "finalproject\\tEnterResults.cs",
+              "ToolTip": "C:\\Users\\amc trading sharjah\\Documents\\GAD\\finalproject\\finalproject\\tEnterResults.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\GAD\\finalproject\\finalproject\\tEnterResults.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T13:53:30.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "adminSURecords.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\adminSURecords.cs",
+              "RelativeDocumentMoniker": "finalproject\\adminSURecords.cs",
+              "ToolTip": "C:\\Users\\amc trading sharjah\\Documents\\GAD\\finalproject\\finalproject\\adminSURecords.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\GAD\\finalproject\\finalproject\\adminSURecords.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T09:24:19.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "adminSURecords.cs",
+              "DocumentMoniker": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\adminSURecords.cs",
+              "RelativeDocumentMoniker": "finalproject\\adminSURecords.cs",
+              "ToolTip": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\adminSURecords.cs",
+              "RelativeToolTip": "finalproject\\adminSURecords.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAvwFkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T09:24:21.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "adminViewAcc.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\adminViewAcc.cs",
+              "RelativeDocumentMoniker": "finalproject\\adminViewAcc.cs",
+              "ToolTip": "C:\\Users\\amc trading sharjah\\Documents\\GAD\\finalproject\\finalproject\\adminViewAcc.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\GAD\\finalproject\\finalproject\\adminViewAcc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T09:26:42.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "crystalform1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\crystalform1.cs",
+              "RelativeDocumentMoniker": "finalproject\\crystalform1.cs",
+              "ToolTip": "C:\\Users\\amc trading sharjah\\Documents\\GAD\\finalproject\\finalproject\\crystalform1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\GAD\\finalproject\\finalproject\\crystalform1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T09:51:02.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "crystalform1.cs",
+              "DocumentMoniker": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\crystalform1.cs",
+              "RelativeDocumentMoniker": "finalproject\\crystalform1.cs",
+              "ToolTip": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\crystalform1.cs",
+              "RelativeToolTip": "finalproject\\crystalform1.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAEwDMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T09:51:05.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "pEmpSalary.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\pEmpSalary.cs",
+              "RelativeDocumentMoniker": "finalproject\\pEmpSalary.cs",
+              "ToolTip": "C:\\Users\\amc trading sharjah\\Documents\\GAD\\finalproject\\finalproject\\pEmpSalary.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\GAD\\finalproject\\finalproject\\pEmpSalary.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T07:59:18.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "adminViewAcc.cs",
+              "DocumentMoniker": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\adminViewAcc.cs",
+              "RelativeDocumentMoniker": "finalproject\\adminViewAcc.cs",
+              "ToolTip": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\adminViewAcc.cs",
+              "RelativeToolTip": "finalproject\\adminViewAcc.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAEwD0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T09:26:44.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "adminAddStSchedule.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\adminAddStSchedule.cs",
+              "RelativeDocumentMoniker": "finalproject\\adminAddStSchedule.cs",
+              "ToolTip": "C:\\Users\\amc trading sharjah\\Documents\\GAD\\finalproject\\finalproject\\adminAddStSchedule.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\GAD\\finalproject\\finalproject\\adminAddStSchedule.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T08:17:54.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "adminAddSub.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\adminAddSub.cs",
+              "RelativeDocumentMoniker": "finalproject\\adminAddSub.cs",
+              "ToolTip": "C:\\Users\\amc trading sharjah\\Documents\\GAD\\finalproject\\finalproject\\adminAddSub.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\GAD\\finalproject\\finalproject\\adminAddSub.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T08:19:05.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "adminReports.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\adminReports.cs",
+              "RelativeDocumentMoniker": "finalproject\\adminReports.cs",
+              "ToolTip": "C:\\Users\\amc trading sharjah\\Documents\\GAD\\finalproject\\finalproject\\adminReports.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\GAD\\finalproject\\finalproject\\adminReports.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T09:17:41.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "dbo.stClsSchedule_tbl [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_MILEE7/education/True/SqlTable/dbo.stClsSchedule_tbl.sql",
+              "ToolTip": "dbo.stClsSchedule_tbl [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-20T08:33:50.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "pEmpSalary.cs",
+              "DocumentMoniker": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\pEmpSalary.cs",
+              "RelativeDocumentMoniker": "finalproject\\pEmpSalary.cs",
+              "ToolTip": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\pEmpSalary.cs",
+              "RelativeToolTip": "finalproject\\pEmpSalary.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAEwGIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T07:59:19.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "adminSURDelUser.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\adminSURDelUser.cs",
+              "RelativeDocumentMoniker": "finalproject\\adminSURDelUser.cs",
+              "ToolTip": "C:\\Users\\amc trading sharjah\\Documents\\GAD\\finalproject\\finalproject\\adminSURDelUser.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\GAD\\finalproject\\finalproject\\adminSURDelUser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T08:25:54.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "adminSURDelUser.cs",
+              "DocumentMoniker": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\adminSURDelUser.cs",
+              "RelativeDocumentMoniker": "finalproject\\adminSURDelUser.cs",
+              "ToolTip": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\adminSURDelUser.cs",
+              "RelativeToolTip": "finalproject\\adminSURDelUser.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAADwvzsAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T08:25:58.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "stEvaluation.cs",
+              "DocumentMoniker": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\stEvaluation.cs",
+              "RelativeDocumentMoniker": "finalproject\\stEvaluation.cs",
+              "ToolTip": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\stEvaluation.cs",
+              "RelativeToolTip": "finalproject\\stEvaluation.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAwEQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T18:09:05.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "stOnlineExams.cs",
+              "DocumentMoniker": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\stOnlineExams.cs",
+              "RelativeDocumentMoniker": "finalproject\\stOnlineExams.cs",
+              "ToolTip": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\stOnlineExams.cs",
+              "RelativeToolTip": "finalproject\\stOnlineExams.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwEUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T15:28:05.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "studentClsSchedule.cs",
+              "DocumentMoniker": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\studentClsSchedule.cs",
+              "RelativeDocumentMoniker": "finalproject\\studentClsSchedule.cs",
+              "ToolTip": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\studentClsSchedule.cs",
+              "RelativeToolTip": "finalproject\\studentClsSchedule.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAwwDIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T08:46:53.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "studentClsSchedule.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\studentClsSchedule.cs",
+              "RelativeDocumentMoniker": "finalproject\\studentClsSchedule.cs",
+              "ToolTip": "C:\\Users\\amc trading sharjah\\Documents\\GAD\\finalproject\\finalproject\\studentClsSchedule.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\GAD\\finalproject\\finalproject\\studentClsSchedule.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T08:46:52.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "stQue.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\stQue.cs",
+              "RelativeDocumentMoniker": "finalproject\\stQue.cs",
+              "ToolTip": "C:\\Users\\amc trading sharjah\\Documents\\GAD\\finalproject\\finalproject\\stQue.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\GAD\\finalproject\\finalproject\\stQue.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T15:45:45.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "payLogin.cs",
+              "DocumentMoniker": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\payLogin.cs",
+              "RelativeDocumentMoniker": "finalproject\\payLogin.cs",
+              "ToolTip": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\payLogin.cs",
+              "RelativeToolTip": "finalproject\\payLogin.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAowGkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T09:00:12.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "stQue.cs",
+              "DocumentMoniker": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\stQue.cs",
+              "RelativeDocumentMoniker": "finalproject\\stQue.cs",
+              "ToolTip": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\stQue.cs",
+              "RelativeToolTip": "finalproject\\stQue.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAewHYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T15:46:08.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "adminDelSub.cs",
+              "DocumentMoniker": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\adminDelSub.cs",
+              "RelativeDocumentMoniker": "finalproject\\adminDelSub.cs",
+              "ToolTip": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\adminDelSub.cs",
+              "RelativeToolTip": "finalproject\\adminDelSub.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAowC0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T08:20:52.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "adminDelSub.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\adminDelSub.cs",
+              "RelativeDocumentMoniker": "finalproject\\adminDelSub.cs",
+              "ToolTip": "C:\\Users\\amc trading sharjah\\Documents\\GAD\\finalproject\\finalproject\\adminDelSub.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\GAD\\finalproject\\finalproject\\adminDelSub.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T06:58:36.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "stEvaluation.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\stEvaluation.Designer.cs",
+              "RelativeDocumentMoniker": "finalproject\\stEvaluation.Designer.cs",
+              "ToolTip": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\stEvaluation.Designer.cs",
+              "RelativeToolTip": "finalproject\\stEvaluation.Designer.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAewG8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T05:50:57.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "adminClsSchedule.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\adminClsSchedule.cs",
+              "RelativeDocumentMoniker": "finalproject\\adminClsSchedule.cs",
+              "ToolTip": "C:\\Users\\amc trading sharjah\\Documents\\GAD\\finalproject\\finalproject\\adminClsSchedule.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\GAD\\finalproject\\finalproject\\adminClsSchedule.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T08:20:40.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "stQue.resx",
+              "DocumentMoniker": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\stQue.resx",
+              "RelativeDocumentMoniker": "finalproject\\stQue.resx",
+              "ToolTip": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\stQue.resx",
+              "RelativeToolTip": "finalproject\\stQue.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-06-15T02:38:03.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "stQue.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\stQue.Designer.cs",
+              "RelativeDocumentMoniker": "finalproject\\stQue.Designer.cs",
+              "ToolTip": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\stQue.Designer.cs",
+              "RelativeToolTip": "finalproject\\stQue.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T02:38:03.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "paymentClerk.cs",
+              "DocumentMoniker": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\paymentClerk.cs",
+              "RelativeDocumentMoniker": "finalproject\\paymentClerk.cs",
+              "ToolTip": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\paymentClerk.cs",
+              "RelativeToolTip": "finalproject\\paymentClerk.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T13:53:33.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "adminUpdateEmpSchedule.cs",
+              "DocumentMoniker": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\adminUpdateEmpSchedule.cs",
+              "RelativeDocumentMoniker": "finalproject\\adminUpdateEmpSchedule.cs",
+              "ToolTip": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\adminUpdateEmpSchedule.cs",
+              "RelativeToolTip": "finalproject\\adminUpdateEmpSchedule.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAowHEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T08:26:14.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "adminReports.cs",
+              "DocumentMoniker": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\adminReports.cs",
+              "RelativeDocumentMoniker": "finalproject\\adminReports.cs",
+              "ToolTip": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\adminReports.cs",
+              "RelativeToolTip": "finalproject\\adminReports.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAmwDoAAACHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T08:44:11.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "adminUpdateEmpSchedule.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\adminUpdateEmpSchedule.cs",
+              "RelativeDocumentMoniker": "finalproject\\adminUpdateEmpSchedule.cs",
+              "ToolTip": "C:\\Users\\amc trading sharjah\\Documents\\GAD\\finalproject\\finalproject\\adminUpdateEmpSchedule.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\GAD\\finalproject\\finalproject\\adminUpdateEmpSchedule.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T08:26:11.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "adminSubject.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\adminSubject.cs",
+              "RelativeDocumentMoniker": "finalproject\\adminSubject.cs",
+              "ToolTip": "C:\\Users\\amc trading sharjah\\Documents\\GAD\\finalproject\\finalproject\\adminSubject.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\GAD\\finalproject\\finalproject\\adminSubject.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T08:25:02.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "adminSchedule.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\adminSchedule.cs",
+              "RelativeDocumentMoniker": "finalproject\\adminSchedule.cs",
+              "ToolTip": "C:\\Users\\amc trading sharjah\\Documents\\GAD\\finalproject\\finalproject\\adminSchedule.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\GAD\\finalproject\\finalproject\\adminSchedule.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T08:25:00.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "adminESchedule.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\adminESchedule.cs",
+              "RelativeDocumentMoniker": "finalproject\\adminESchedule.cs",
+              "ToolTip": "C:\\Users\\amc trading sharjah\\Documents\\GAD\\finalproject\\finalproject\\adminESchedule.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\GAD\\finalproject\\finalproject\\adminESchedule.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T08:21:29.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "adminCls.cs",
+              "DocumentMoniker": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\adminCls.cs",
+              "RelativeDocumentMoniker": "finalproject\\adminCls.cs",
+              "ToolTip": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\adminCls.cs",
+              "RelativeToolTip": "finalproject\\adminCls.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAmwCEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T08:20:03.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "adminAddSub.cs",
+              "DocumentMoniker": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\adminAddSub.cs",
+              "RelativeDocumentMoniker": "finalproject\\adminAddSub.cs",
+              "ToolTip": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\adminAddSub.cs",
+              "RelativeToolTip": "finalproject\\adminAddSub.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAcwC8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T08:19:07.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "adminAddStSchedule.cs",
+              "DocumentMoniker": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\adminAddStSchedule.cs",
+              "RelativeDocumentMoniker": "finalproject\\adminAddStSchedule.cs",
+              "ToolTip": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\adminAddStSchedule.cs",
+              "RelativeToolTip": "finalproject\\adminAddStSchedule.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAmwCEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T08:17:56.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "adminAddEmpSchedule.cs",
+              "DocumentMoniker": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\adminAddEmpSchedule.cs",
+              "RelativeDocumentMoniker": "finalproject\\adminAddEmpSchedule.cs",
+              "ToolTip": "C:\\Users\\amc trading sharjah\\Documents\\Dip SE\\GAD\\finalproject\\finalproject\\adminAddEmpSchedule.cs",
+              "RelativeToolTip": "finalproject\\adminAddEmpSchedule.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAmwC8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T08:16:45.865Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
